@@ -1,6 +1,9 @@
 # Threat Hunt Report: Unauthorized TOR Usage
 
-![TOR Logo](*image here*)
+![TOR Logo](https://github.com/user-attachments/assets/070499e5-3a21-4f33-92af-2b4f3aee3879)
+
+
+
 
 ## Overview
 Management has detected unusual encrypted traffic patterns and connections to known TOR entry nodes. Anonymous reports suggest employees may be using TOR browsers to bypass security controls. This investigation aims to confirm unauthorized TOR usage and analyze related security incidents.
