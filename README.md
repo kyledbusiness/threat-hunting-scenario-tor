@@ -2,6 +2,8 @@
 
 ![TOR Logo](https://github.com/user-attachments/assets/070499e5-3a21-4f33-92af-2b4f3aee3879)
 
+## [Scenario Creation](https://github.com/kyledbusiness/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint
@@ -100,5 +102,3 @@ DeviceFileEvents
 - Recommended policy updates to restrict TOR installations in the environment.
 
 ---
-
-- [Scenario Creation](https://github.com/kyledbusiness/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
