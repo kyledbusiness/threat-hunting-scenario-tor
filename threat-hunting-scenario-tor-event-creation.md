@@ -39,6 +39,7 @@
 
 ## Related Queries:
 ```kql
+// Installer name == tor-browser-windows-x86_64-portable-(version).exe
 // Detect the TOR installer being downloaded
 DeviceFileEvents
 | where FileName startswith "tor"
@@ -69,5 +70,12 @@ DeviceNetworkEvents
 DeviceFileEvents
 | where FileName contains "shopping-list.txt"
 ```
+
+---
+
+## Created By:
+- **Author Name**: Kyle Davis
+- **Author Contact**: https://www.linkedin.com/in/kyledbusiness
+- **Date**: April 12, 2025
 
 ---
