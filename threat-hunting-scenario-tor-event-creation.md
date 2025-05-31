@@ -11,8 +11,8 @@
    - Dark Markets Forum: `g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/DarkNetMarkets`
    - Current Elysium Market: `https://elysiumutkwscnmdohj23gkcyp3ebrf4iio3sngc5tvcgyfp4nqqmwad.top/login`
    - **Note:** Onion links may change. For updated links, check: [Dread Forum](https://dread-forum.com/)
-5. **Created a file named `tor-shopping-list.txt` on the desktop** and added a list of illicit items.
-6. **Deleted the shopping list file** to cover tracks.
+5. **Created a file named `tor-shopping-list.txt` on the desktop** and added a list of fake illicit items.
+6. **Deleted the shopping list file** to "cover tracks."
 
 ---
 
